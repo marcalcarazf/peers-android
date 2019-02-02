@@ -4,6 +4,7 @@
 This project works in most Android devices because it doesn't use *android.sip* libraries. *Javax sound* libraries have been replaced by *android.media* libraries.
 
 ## Prerequisites
+* [Java SDK 7](https://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html)
 * [Android Studio](https://developer.android.com/studio) - IDE used in this project. You can pick .java and .jar files and use them in any other IDE.
 
 ## Installing - Setup
